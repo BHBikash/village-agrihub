@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://https://village-agrihub-backend.onrender.com/api/products";
+const API_URL = "https://village-agrihub-frontend.onrender.com/api/products";
 
 export const getAllProducts = async () => {
   try {
